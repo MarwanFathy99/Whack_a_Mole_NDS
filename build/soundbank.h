@@ -1,0 +1,9 @@
+#define SFX_APPLAUSE3	0
+#define SFX_BOO	1
+#define SFX_BUZZER_X	2
+#define MOD_FLATOUTLIES	0
+#define SFX_M16_X	34
+#define SFX_SPLOOGE	35
+#define MSL_NSONGS	1
+#define MSL_NSAMPS	36
+#define MSL_BANKSIZE	37
